@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+You can also check from deployed version: https://fametonic-assignment.vercel.app/
 ## Getting Started
 
 First, run the development server:
