@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+:root {
+  --background: #000000;
+  --text-primary: #ffffff;
+}
+
+body {
+  background: var(--background);
+  color: var(--text-primary);
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+p,
+ul,
+ol,
+li,
+div {
+  margin: 0;
+}
+
+.promotion-banner {
+  background: linear-gradient(90deg, #fc004e 0%, #10cbe0 100%);
+}
